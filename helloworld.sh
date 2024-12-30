@@ -1,10 +1,12 @@
-#!bin/bash
+#!/bin/bash
+
 NAME=jayakrishna
-COMPANY=Deutsche Bank
+COMPANY=DeutscheBank
 ROLE=Associate
-EXPERIENCE=5 years
-TECHNOLOGY_LEARNING=devops and AWS
+EXPERIENCE=5years
+TECHNOLOGY_LEARNING=devops_AWS
 
 echo $NAME
 echo $COMPANY
 echo $ROLE
+echo $TECHNOLOGY_LEARNING
