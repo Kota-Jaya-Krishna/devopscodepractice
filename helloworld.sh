@@ -12,3 +12,4 @@ echo $COMPANY
 echo $ROLE
 echo $TECHNOLOGY_LEARNING
 echo $MARRIED
+echo $EXPERIENCE
