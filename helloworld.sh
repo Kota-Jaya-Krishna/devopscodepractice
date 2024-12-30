@@ -8,6 +8,7 @@ TECHNOLOGY_LEARNING=devops_AWS
 MARRIED=harini
 MARRIAGE_DATE=16thnov 2024
 PLACE=Guntur
+SALARY=good
 
 echo $NAME
 echo $COMPANY
@@ -17,3 +18,4 @@ echo $MARRIED
 echo $EXPERIENCE
 echo $MARRIAGE_DATE
 echo $PLACE
+echo $SALARY
