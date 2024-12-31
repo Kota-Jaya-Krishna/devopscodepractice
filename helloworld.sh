@@ -9,9 +9,11 @@ MARRIED=harini
 MARRIAGE_DATE=16thnov2024
 PLACE=Guntur
 SALARY=good
+BONUS=good
 
 echo $NAME
 echo $COMPANY
+echo $BONUS
 echo $ROLE
 echo $TECHNOLOGY_LEARNING
 echo $MARRIED
