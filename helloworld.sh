@@ -10,6 +10,7 @@ MARRIAGE_DATE=16thnov2024
 PLACE=Guntur
 SALARY=good
 BONUS=good
+HIKE=important
 
 echo $NAME
 echo $COMPANY
@@ -21,3 +22,4 @@ echo $EXPERIENCE
 echo $MARRIAGE_DATE
 echo $PLACE
 echo $SALARY
+echo $HIKE
