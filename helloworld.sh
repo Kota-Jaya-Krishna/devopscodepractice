@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -x
+
 NAME=jayakrishna
 COMPANY=DeutscheBank
 ROLE=Associate
